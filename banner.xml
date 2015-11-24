@@ -57,8 +57,8 @@
 	<UserPref name="txts" display_name="Descripción de cada imagen separada por comas. Max.100 caracteres por cada una (Se relacionan en el mismo orden en cual se añadieron las imágenes y vínculos):" default_value=""/>
 	<Content type="html">
 		<![CDATA[
-			<link rel="stylesheet" href="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/css/banner.css">
-			<ul id="banner-google" class="banner tm-__UP_tem__ fr-__UP_fr__ tr-__UP_tr__ bsiz-__UP_imgsize__ bpos-__UP_imgpos__ cmt-__UP_cmt__ rad-__UP_rdv__ rad-__UP_rdh__ flc-__UP_flc__" data-time="__UP_time__" data-auto="__UP_auto__"></ul>			<script src="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/js/banner.js"></script>
+			<link rel="stylesheet" href="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/master/css/banner.css">
+			<ul id="banner-google" class="banner tm-__UP_tem__ fr-__UP_fr__ tr-__UP_tr__ bsiz-__UP_imgsize__ bpos-__UP_imgpos__ cmt-__UP_cmt__ rad-__UP_rdv__ rad-__UP_rdh__ flc-__UP_flc__" data-time="__UP_time__" data-auto="__UP_auto__"></ul>			<script src="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/master/js/banner.js"></script>
 		]]> 
 	</Content>
 </Module>

@@ -56,9 +56,9 @@
 	<UserPref name="txts" display_name="Descripción de cada imagen separada por comas. Max.100 caracteres por cada una (Se relacionan en el mismo orden en cual se añadieron las imágenes y vínculos):" default_value=""/>
 	<Content type="html">
 		<![CDATA[
-			<link rel="stylesheet" href="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/css/banner.css">
+			<link rel="stylesheet" href="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/master/css/banner.css">
 			<?php include('body.xml');?>
-			<script src="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/js/banner.js"></script>
+			<script src="https://cdn.rawgit.com/Eforcers/-google-sites-banner-xml/master/js/banner.js"></script>
 		]]> 
 	</Content>
 </Module>
