@@ -20,10 +20,10 @@
 		<EnumValue value="up" display_value="Imagen arriba" />
 		<EnumValue value="dw" display_value="Imagen abajo" />
 	</UserPref>
-	<UserPref name="cmt" display_name="Visualización de commentarios:" default_value="dw" datatype="enum" >
-		<EnumValue value="no" display_value="No mostrar comentarios" />
-		<EnumValue value="up" display_value="Comentario arriba" />
-		<EnumValue value="dw" display_value="Comentario abajo" />
+	<UserPref name="cmt" display_name="Visualización de comentarios/descripción:" default_value="dw" datatype="enum" >
+		<EnumValue value="no" display_value="No mostrar descripción" />
+		<EnumValue value="up" display_value="Descripción arriba" />
+		<EnumValue value="dw" display_value="Descripción abajo" />
 	</UserPref>
 	<UserPref name="rdv" display_name="Posición vertical para los botones de indice:" default_value="dw" datatype="enum" >
 		<EnumValue value="no" display_value="No mostrar botones de indice" />
