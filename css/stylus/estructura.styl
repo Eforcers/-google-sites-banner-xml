@@ -1,18 +1,10 @@
 @import 'nib'
 
 html
-    font-family $fontFamily
-    font-size $text_p
-    background $bgColor
-    color $textColor
-    overflow hidden
+    //overflow hidden //for cloudkey
     background transparent
 
-body
-    overflow hidden
-    background transparent
-
-.wrapper
+.wrapper-banner-xml
     height 300px
     width auto
     max-width $wrapper
@@ -25,8 +17,9 @@ body
     bottom 0
 
 #banner-local-html
-    display: none
-    
+    display none
+    color $textColor
+    font-size $text_p
 
 .con-parcial
     display none
@@ -38,6 +31,7 @@ body
     width 100%
     min-width 100px
     min-height 100px
+    font-family $fontFamily
 
     > li
         position absolute
@@ -427,3 +421,4 @@ body
         .iframe
             overflow hidden
             border-radius 100%
+
